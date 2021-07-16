@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BComponents</string>
+
+    <string name="button_start_service">Start countdown</string>
+    <string name="button_stop_service">Stop countdown</string>
+
+    <string name="button_send_between_broadcasts">Send broadcast</string>
+    <string name="hint_countdown_input">Time in seconds</string>
+
+    <string name="channel_title">Service notification</string>
+    <string name="channel_description">Notifications for foreground services</string>
+
+    <string name="service_notification_title">Countdown service</string>
+    <string name="service_notification_content">App is counting down</string>
+</resources>
