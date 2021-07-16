@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BComponents</string>
+
+    <string name="button_start_service">Start countdown</string>
+    <string name="button_stop_service">Stop countdown</string>
+
+    <string name="button_send_between_broadcasts">Send broadcast</string>
+    <string name="hint_countdown_input">Time in seconds</string>
+</resources>
