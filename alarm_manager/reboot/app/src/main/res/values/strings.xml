@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SimpleAlarm</string>
+
+    <string name="button_elapsed_time">Schedule elapsed time</string>
+    <string name="button_rtc">Schedule real time clock</string>
+
+    <string name="notification_alarm_channel_name">Alarm notifications</string>
+    <string name="notification_alarm_channel_description">Notifications related to Alarms set by the user</string>
+    <string name="notification_alarm_title">Reminder</string>
+
+    <string name="reminder_text_hint">Write a reminder note here</string>
+
+    <string name="button_set_reminder">Set reminder</string>
+</resources>
